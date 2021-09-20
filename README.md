@@ -5,8 +5,7 @@
 На тестирование затрачено: 1 часа
 
 В результате тестирования выявлены следующие дефекты:
-* [Не валиден ключ 387eedc6-12e9-3b32-9881-63b6b5e8531](https://github.com/bigsurmoon/java1.2/issues/1)
-* [Не валиден ключ 80b427f8-92cd-3aae-ba04-3927fbe17c6](https://github.com/bigsurmoon/java1.2/issues/2)
+* [Не валидны ключи 387eedc6-12e9-3b32-9881-63b6b5e8531 и 80b427f8-92cd-3aae-ba04-3927fbe17c6](https://github.com/bigsurmoon/java1.2/issues/1)
 * [Валиден ключ 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1](https://github.com/bigsurmoon/java1.2/issues/3)
 
 ## Описание процесса тестирования
